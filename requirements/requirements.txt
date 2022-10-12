@@ -1,0 +1,8 @@
+torch
+numpy
+matlablib
+tqdm
+gym
+tensorboard
+tensorboardX
+gym[classic_control]
